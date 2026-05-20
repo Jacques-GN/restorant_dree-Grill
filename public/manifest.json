@@ -1,0 +1,21 @@
+{
+  "name": "Deen's Grill",
+  "short_name": "Deen's Grill",
+  "description": "Restaurant de Grillades à Ouaga 2000, Ouagadougou",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#261c16",
+  "theme_color": "#ee7a12",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
