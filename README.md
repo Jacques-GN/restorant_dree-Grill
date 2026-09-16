@@ -46,9 +46,9 @@ Le site sera accessible sur `http://localhost:3000`
 ## 🔧 Configuration
 
 ### Numéro WhatsApp
-Le numéro est configuré à `+22654025555` (+226 54 02 55 55).
+Le numéro est configuré à `+22654000000` (+226 54 00 00 00).
 Pour le changer, utilisez Ctrl+H dans VS Code :
-- Rechercher : `+22654025555`
+- Rechercher : `+22654000000`
 - Remplacer par votre nouveau numéro (sans +)
 
 ### Code PIN Admin
